@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb135675.chunk.css",
+    "main.css": "/static/css/main.93d34225.chunk.css",
     "main.js": "/static/js/main.1c4f6fe5.chunk.js",
     "main.js.map": "/static/js/main.1c4f6fe5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aee450ce.js",
@@ -8,16 +8,16 @@
     "static/js/2.b36cfa06.chunk.js": "/static/js/2.b36cfa06.chunk.js",
     "static/js/2.b36cfa06.chunk.js.map": "/static/js/2.b36cfa06.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d7b103c86d579b09d9d0868f75f4a2a0.js": "/precache-manifest.d7b103c86d579b09d9d0868f75f4a2a0.js",
+    "precache-manifest.b22f361aa381640f8e364d1e72dd37cb.js": "/precache-manifest.b22f361aa381640f8e364d1e72dd37cb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.cb135675.chunk.css.map": "/static/css/main.cb135675.chunk.css.map",
+    "static/css/main.93d34225.chunk.css.map": "/static/css/main.93d34225.chunk.css.map",
     "static/js/2.b36cfa06.chunk.js.LICENSE.txt": "/static/js/2.b36cfa06.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Thaumiel.29e2dc97.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aee450ce.js",
     "static/js/2.b36cfa06.chunk.js",
-    "static/css/main.cb135675.chunk.css",
+    "static/css/main.93d34225.chunk.css",
     "static/js/main.1c4f6fe5.chunk.js"
   ]
 }
